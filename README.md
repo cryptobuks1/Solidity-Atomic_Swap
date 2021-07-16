@@ -1,2 +1,4 @@
 # Solidity-Atomic_Swap
-Swap custom ERC20 token for a mock DAI stablecoin
+Swap custom Ethereum (ETH) for your custom ERC20 token.
+
+Use of Solidity, MetaMask, Truffle, Genache, NodeJS, React and unit testing.
